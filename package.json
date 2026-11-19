@@ -1,0 +1,8 @@
+{
+  "name": "com.indie3deditor.tools",
+  "version": "1.0.0",
+  "displayName": "Indie 3D Editor",
+  "description": "Edit Mesh, Edit UV, Retopology и Create Primitive для Unity 6.",
+  "unity": "6000.4",
+  "dependencies": {}
+}
