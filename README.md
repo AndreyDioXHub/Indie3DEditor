@@ -20,6 +20,20 @@ You and your team woke up in a ruined city. Hordes of zombies roam the streets. 
 
 [Default Zombie Shooter в Steam](https://store.steampowered.com/app/5570280/Default_Zombie_Shooter/?beta=0)
 
+## Video lessons
+
+- [Indie 3D Editor Primitive](https://youtu.be/MrseJZbe71o)
+- [Indie 3D Editor Edit Mesh](https://youtu.be/c6XliUhbKsM)
+- [Indie 3D Editor Edit UV](https://youtu.be/ev3I9RV8wSw)
+- [Indie 3D Editor Retopology](https://youtu.be/CuhDx3P3sbc)
+
+## Видеоуроки
+
+- [Indie 3D Editor Primitive](https://youtu.be/MrseJZbe71o)
+- [Indie 3D Editor Edit Mesh](https://youtu.be/c6XliUhbKsM)
+- [Indie 3D Editor Edit UV](https://youtu.be/ev3I9RV8wSw)
+- [Indie 3D Editor Retopology](https://youtu.be/CuhDx3P3sbc)
+
 ## About
 
 A mesh editor for Unity 6: Edit Mesh, Edit UV, Retopology, and Create Primitive. Only one of Edit Mesh, Edit UV, and Retopology can be active. Entering one closes the other and writes its result.
